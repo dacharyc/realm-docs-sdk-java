@@ -130,31 +130,31 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`NO_POLICY <io_realm_annotations_RealmNamingPolicy_NO_POLICY_NO_POLICY>`
+   * - :ref:`NO_POLICY <io_realm_annotations_RealmNamingPolicy_NO_POLICY>`
      - No policy is applied.
        
        
        
    
-   * - :ref:`IDENTITY <io_realm_annotations_RealmNamingPolicy_IDENTITY_IDENTITY>`
+   * - :ref:`IDENTITY <io_realm_annotations_RealmNamingPolicy_IDENTITY>`
      - The name in the Java model class is used as is internally.
        
        
        
    
-   * - :ref:`CAMEL_CASE <io_realm_annotations_RealmNamingPolicy_CAMEL_CASE_CAMEL_CASE>`
+   * - :ref:`CAMEL_CASE <io_realm_annotations_RealmNamingPolicy_CAMEL_CASE>`
      - The name in the Java model class is converted to camelCase, i.e.
        
        
        
    
-   * - :ref:`PASCAL_CASE <io_realm_annotations_RealmNamingPolicy_PASCAL_CASE_PASCAL_CASE>`
+   * - :ref:`PASCAL_CASE <io_realm_annotations_RealmNamingPolicy_PASCAL_CASE>`
      - The name in the Java model class is converted to PascalCase, i.e.
        
        
        
    
-   * - :ref:`LOWER_CASE_WITH_UNDERSCORES <io_realm_annotations_RealmNamingPolicy_LOWER_CASE_WITH_UNDERSCORES_LOWER_CASE_WITH_UNDERSCORES>`
+   * - :ref:`LOWER_CASE_WITH_UNDERSCORES <io_realm_annotations_RealmNamingPolicy_LOWER_CASE_WITH_UNDERSCORES>`
      - The name in the Java model class is converted lowercase with each word separated by ``_``.
        
        
@@ -192,7 +192,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_annotations_RealmNamingPolicy_NO_POLICY_NO_POLICY:
+.. _io_realm_annotations_RealmNamingPolicy_NO_POLICY:
 
 ``NO_POLICY``
 -------------
@@ -208,7 +208,7 @@ No policy is applied. This policy will not override any policy set on a parent e
  <p>
  This policy is the default.
 
-.. _io_realm_annotations_RealmNamingPolicy_IDENTITY_IDENTITY:
+.. _io_realm_annotations_RealmNamingPolicy_IDENTITY:
 
 ``IDENTITY``
 ------------
@@ -217,7 +217,7 @@ public static final :ref:`RealmNamingPolicy <io_realm_annotations_RealmNamingPol
 
 The name in the Java model class is used as is internally.
 
-.. _io_realm_annotations_RealmNamingPolicy_CAMEL_CASE_CAMEL_CASE:
+.. _io_realm_annotations_RealmNamingPolicy_CAMEL_CASE:
 
 ``CAMEL_CASE``
 --------------
@@ -232,7 +232,7 @@ The name in the Java model class is converted to camelCase, i.e. all words are j
  Examples: "firstName", "FirstName", "mFirstName", "FIRST_NAME", "First$Name" all becomes
  "firstName".
 
-.. _io_realm_annotations_RealmNamingPolicy_PASCAL_CASE_PASCAL_CASE:
+.. _io_realm_annotations_RealmNamingPolicy_PASCAL_CASE:
 
 ``PASCAL_CASE``
 ---------------
@@ -246,7 +246,7 @@ The name in the Java model class is converted to PascalCase, i.e. all words are 
  Examples: "firstName", "FirstName", "mFirstName", "FIRST_NAME", "First$Name" all becomes
  "FirstName".
 
-.. _io_realm_annotations_RealmNamingPolicy_LOWER_CASE_WITH_UNDERSCORES_LOWER_CASE_WITH_UNDERSCORES:
+.. _io_realm_annotations_RealmNamingPolicy_LOWER_CASE_WITH_UNDERSCORES:
 
 ``LOWER_CASE_WITH_UNDERSCORES``
 -------------------------------

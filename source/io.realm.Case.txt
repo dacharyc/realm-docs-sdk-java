@@ -24,13 +24,13 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`SENSITIVE <io_realm_Case_SENSITIVE_SENSITIVE>`
+   * - :ref:`SENSITIVE <io_realm_Case_SENSITIVE>`
      - 
        
        
        
    
-   * - :ref:`INSENSITIVE <io_realm_Case_INSENSITIVE_INSENSITIVE>`
+   * - :ref:`INSENSITIVE <io_realm_Case_INSENSITIVE>`
      - 
        
        
@@ -74,7 +74,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_Case_SENSITIVE_SENSITIVE:
+.. _io_realm_Case_SENSITIVE:
 
 ``SENSITIVE``
 -------------
@@ -83,7 +83,7 @@ public static final :ref:`Case <io_realm_Case>`
 
 
 
-.. _io_realm_Case_INSENSITIVE_INSENSITIVE:
+.. _io_realm_Case_INSENSITIVE:
 
 ``INSENSITIVE``
 ---------------

@@ -1170,7 +1170,7 @@ Parameters
    
 - ``value - ``the value to compare with.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -1193,7 +1193,7 @@ Parameters
    
 - ``value - ``the value to compare with.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -1296,7 +1296,7 @@ Parameters
    
    
    
-- ``casing - ``how casing is handled. **Case#INSENSITIVE (?)**works only for the Latin-1 characters.
+- ``casing - ``how casing is handled. :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`works only for the Latin-1 characters.
    
    
    
@@ -1527,7 +1527,7 @@ Parameters
    
 - ``value - ``the value to compare with.
    
-- ``casing - ``how casing is handled. **Case#INSENSITIVE (?)**works only for the Latin-1 characters.
+- ``casing - ``how casing is handled. :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`works only for the Latin-1 characters.
    
    
    
@@ -1550,7 +1550,7 @@ Parameters
    
 - ``value - ``the value to compare with.
    
-- ``casing - ``how casing is handled. **Case#INSENSITIVE (?)**works only for the Latin-1 characters.
+- ``casing - ``how casing is handled. :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`works only for the Latin-1 characters.
    
    
    
@@ -2309,7 +2309,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2332,7 +2332,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2393,7 +2393,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2416,7 +2416,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2477,7 +2477,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2500,7 +2500,7 @@ Parameters
    
 - ``value - ``the substring.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2582,7 +2582,7 @@ Parameters
    
 - ``value - ``the wildcard string.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    
@@ -2612,7 +2612,7 @@ Parameters
    
 - ``value - ``the wildcard string.
    
-- ``casing - ``how to handle casing. Setting this to **Case#INSENSITIVE (?)**only works for Latin-1 characters.
+- ``casing - ``how to handle casing. Setting this to :ref:`Case#INSENSITIVE <io_realm_Case_INSENSITIVE>`only works for Latin-1 characters.
    
    
    

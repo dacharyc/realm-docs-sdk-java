@@ -26,49 +26,49 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`ACCESS_ERROR <io_realm_exceptions_RealmFileException_Kind_ACCESS_ERROR_ACCESS_ERROR>`
+   * - :ref:`ACCESS_ERROR <io_realm_exceptions_RealmFileException_Kind_ACCESS_ERROR>`
      - Thrown for any I/O related exception scenarios when a Realm is opened.
        
        
        
    
-   * - :ref:`BAD_HISTORY <io_realm_exceptions_RealmFileException_Kind_BAD_HISTORY_BAD_HISTORY>`
+   * - :ref:`BAD_HISTORY <io_realm_exceptions_RealmFileException_Kind_BAD_HISTORY>`
      - Thrown if the history type of the on-disk Realm is unexpected or incompatible.
        
        
        
    
-   * - :ref:`PERMISSION_DENIED <io_realm_exceptions_RealmFileException_Kind_PERMISSION_DENIED_PERMISSION_DENIED>`
+   * - :ref:`PERMISSION_DENIED <io_realm_exceptions_RealmFileException_Kind_PERMISSION_DENIED>`
      - Thrown if the user does not have permission to open or create the specified file in the specified access mode when the Realm is opened.
        
        
        
    
-   * - :ref:`EXISTS <io_realm_exceptions_RealmFileException_Kind_EXISTS_EXISTS>`
+   * - :ref:`EXISTS <io_realm_exceptions_RealmFileException_Kind_EXISTS>`
      - Thrown if the destination file exists but it is not supposed to.
        
        
        
    
-   * - :ref:`NOT_FOUND <io_realm_exceptions_RealmFileException_Kind_NOT_FOUND_NOT_FOUND>`
+   * - :ref:`NOT_FOUND <io_realm_exceptions_RealmFileException_Kind_NOT_FOUND>`
      - Thrown if the relevant file cannot be found.
        
        
        
    
-   * - :ref:`INCOMPATIBLE_LOCK_FILE <io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_LOCK_FILE_INCOMPATIBLE_LOCK_FILE>`
+   * - :ref:`INCOMPATIBLE_LOCK_FILE <io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_LOCK_FILE>`
      - Thrown if the database file is currently open in another process which cannot share with the current process due to an architecture mismatch.
        
        
        
    
-   * - :ref:`FORMAT_UPGRADE_REQUIRED <io_realm_exceptions_RealmFileException_Kind_FORMAT_UPGRADE_REQUIRED_FORMAT_UPGRADE_REQUIRED>`
+   * - :ref:`FORMAT_UPGRADE_REQUIRED <io_realm_exceptions_RealmFileException_Kind_FORMAT_UPGRADE_REQUIRED>`
      - Thrown if the file needs to be upgraded to a new format, but upgrades have been explicitly disabled.
        
        
        
    
-   * - :ref:`INCOMPATIBLE_SYNC_FILE <io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_SYNC_FILE_INCOMPATIBLE_SYNC_FILE>`
+   * - :ref:`INCOMPATIBLE_SYNC_FILE <io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_SYNC_FILE>`
      - Thrown if an attempt was made to open an Realm file created with Realm Object Server 1.*, which is not compatible with Realm Object Server 2.*.
        
        
@@ -104,7 +104,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_exceptions_RealmFileException_Kind_ACCESS_ERROR_ACCESS_ERROR:
+.. _io_realm_exceptions_RealmFileException_Kind_ACCESS_ERROR:
 
 ``ACCESS_ERROR``
 ----------------
@@ -113,7 +113,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 
 Thrown for any I/O related exception scenarios when a Realm is opened.
 
-.. _io_realm_exceptions_RealmFileException_Kind_BAD_HISTORY_BAD_HISTORY:
+.. _io_realm_exceptions_RealmFileException_Kind_BAD_HISTORY:
 
 ``BAD_HISTORY``
 ---------------
@@ -122,7 +122,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 
 Thrown if the history type of the on-disk Realm is unexpected or incompatible.
 
-.. _io_realm_exceptions_RealmFileException_Kind_PERMISSION_DENIED_PERMISSION_DENIED:
+.. _io_realm_exceptions_RealmFileException_Kind_PERMISSION_DENIED:
 
 ``PERMISSION_DENIED``
 ---------------------
@@ -132,7 +132,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 Thrown if the user does not have permission to open or create the specified file in the specified access
  mode when the Realm is opened.
 
-.. _io_realm_exceptions_RealmFileException_Kind_EXISTS_EXISTS:
+.. _io_realm_exceptions_RealmFileException_Kind_EXISTS:
 
 ``EXISTS``
 ----------
@@ -141,7 +141,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 
 Thrown if the destination file exists but it is not supposed to.
 
-.. _io_realm_exceptions_RealmFileException_Kind_NOT_FOUND_NOT_FOUND:
+.. _io_realm_exceptions_RealmFileException_Kind_NOT_FOUND:
 
 ``NOT_FOUND``
 -------------
@@ -150,7 +150,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 
 Thrown if the relevant file cannot be found.
 
-.. _io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_LOCK_FILE_INCOMPATIBLE_LOCK_FILE:
+.. _io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_LOCK_FILE:
 
 ``INCOMPATIBLE_LOCK_FILE``
 --------------------------
@@ -160,7 +160,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 Thrown if the database file is currently open in another process which cannot share with the current process
  due to an architecture mismatch.
 
-.. _io_realm_exceptions_RealmFileException_Kind_FORMAT_UPGRADE_REQUIRED_FORMAT_UPGRADE_REQUIRED:
+.. _io_realm_exceptions_RealmFileException_Kind_FORMAT_UPGRADE_REQUIRED:
 
 ``FORMAT_UPGRADE_REQUIRED``
 ---------------------------
@@ -169,7 +169,7 @@ public static final :ref:`RealmFileException.Kind <io_realm_exceptions_RealmFile
 
 Thrown if the file needs to be upgraded to a new format, but upgrades have been explicitly disabled.
 
-.. _io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_SYNC_FILE_INCOMPATIBLE_SYNC_FILE:
+.. _io_realm_exceptions_RealmFileException_Kind_INCOMPATIBLE_SYNC_FILE:
 
 ``INCOMPATIBLE_SYNC_FILE``
 --------------------------

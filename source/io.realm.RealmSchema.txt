@@ -172,7 +172,7 @@ Parameters
    
    
    
-- ``attributes - ``set of attributes for this field. This method implicitly adds **FieldAttribute#PRIMARY_KEY (?)**and **FieldAttribute#INDEXED (?)**attributes to the field.
+- ``attributes - ``set of attributes for this field. This method implicitly adds :ref:`FieldAttribute#PRIMARY_KEY <io_realm_FieldAttribute_PRIMARY_KEY>`and :ref:`FieldAttribute#INDEXED <io_realm_FieldAttribute_INDEXED>`attributes to the field.
    
    
    

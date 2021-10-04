@@ -183,7 +183,7 @@ Method Summary
    * - public `Map <https://docs.oracle.com/javase/7/docs/api/java/util/Map.html>`__
      - :ref:`allUsers <io_realm_mongodb_App_allUsers____>` ()
        
-       Returns all known users that are either **User.State#LOGGED_IN (?)**or **User.State#LOGGED_OUT (?)**.
+       Returns all known users that are either :ref:`User.State#LOGGED_IN <io_realm_mongodb_User_State_LOGGED_IN>`or :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`.
        
        
        
@@ -225,7 +225,7 @@ Method Summary
    * - public :ref:`EmailPasswordAuth <io_realm_mongodb_auth_EmailPasswordAuth>`
      - :ref:`getEmailPassword <io_realm_mongodb_App_getEmailPassword____>` ()
        
-       Returns a wrapper for interacting with functionality related to users either being created or logged in using the **Credentials.Provider#EMAIL_PASSWORD (?)**identity provider.
+       Returns a wrapper for interacting with functionality related to users either being created or logged in using the :ref:`Credentials.Provider#EMAIL_PASSWORD <io_realm_mongodb_Credentials_Provider_EMAIL_PASSWORD>`identity provider.
        
        
        
@@ -340,7 +340,7 @@ If two or more users are logged in, it is the last valid user that is returned b
 
 public `Map <https://docs.oracle.com/javase/7/docs/api/java/util/Map.html>`__ allUsers ()
 
-Returns all known users that are either **User.State#LOGGED_IN (?)**or **User.State#LOGGED_OUT (?)**.
+Returns all known users that are either :ref:`User.State#LOGGED_IN <io_realm_mongodb_User_State_LOGGED_IN>`or :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`.
 
 Only users that at some point logged into this device will be returned.
 
@@ -446,7 +446,7 @@ Throws
 
 public :ref:`EmailPasswordAuth <io_realm_mongodb_auth_EmailPasswordAuth>` getEmailPassword ()
 
-Returns a wrapper for interacting with functionality related to users either being created or logged in using the **Credentials.Provider#EMAIL_PASSWORD (?)**identity provider.
+Returns a wrapper for interacting with functionality related to users either being created or logged in using the :ref:`Credentials.Provider#EMAIL_PASSWORD <io_realm_mongodb_Credentials_Provider_EMAIL_PASSWORD>`identity provider.
 
 
 .. _io_realm_mongodb_App_addAuthenticationListener__AuthenticationListener__:

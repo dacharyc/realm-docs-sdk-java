@@ -14,9 +14,9 @@ io.realm.mongodb.sync.SyncSession.State
 
 - `java.lang.Enum <https://docs.oracle.com/javase/7/docs/api/java/lang/Enum.html>`__
 
-Enum describing the states a SyncSession can be in. The initial state is **State#INACTIVE (?)**.
+Enum describing the states a SyncSession can be in. The initial state is :ref:`State#INACTIVE <io_realm_mongodb_sync_SyncSession_State_INACTIVE>`.
 
-A Realm will automatically synchronize data with the server if the session is either **State#ACTIVE (?)**or **State#DYING (?)**and **#isConnected() (?)**returns ``true``.
+A Realm will automatically synchronize data with the server if the session is either :ref:`State#ACTIVE <io_realm_mongodb_sync_SyncSession_State_ACTIVE>`or :ref:`State#DYING <io_realm_mongodb_sync_SyncSession_State_DYING>`and **#isConnected() (?)**returns ``true``.
 
 
 
@@ -30,27 +30,27 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INACTIVE <io_realm_mongodb_sync_SyncSession_State_INACTIVE_INACTIVE>`
+   * - :ref:`INACTIVE <io_realm_mongodb_sync_SyncSession_State_INACTIVE>`
      - This is the initial state.
        
        
        
    
-   * - :ref:`ACTIVE <io_realm_mongodb_sync_SyncSession_State_ACTIVE_ACTIVE>`
-     - The Realm is open and data will be synchronized between the device and the server if the underlying connection is **ConnectionState#CONNECTED (?)**.
+   * - :ref:`ACTIVE <io_realm_mongodb_sync_SyncSession_State_ACTIVE>`
+     - The Realm is open and data will be synchronized between the device and the server if the underlying connection is :ref:`ConnectionState#CONNECTED <io_realm_mongodb_sync_ConnectionState_CONNECTED>`.
        
        
        
        
        
    
-   * - :ref:`DYING <io_realm_mongodb_sync_SyncSession_State_DYING_DYING>`
+   * - :ref:`DYING <io_realm_mongodb_sync_SyncSession_State_DYING>`
      - The Realm was closed, but still contains data that needs to be synchronized to the server.
        
        
        
    
-   * - :ref:`WAITING_FOR_ACCESS_TOKEN <io_realm_mongodb_sync_SyncSession_State_WAITING_FOR_ACCESS_TOKEN_WAITING_FOR_ACCESS_TOKEN>`
+   * - :ref:`WAITING_FOR_ACCESS_TOKEN <io_realm_mongodb_sync_SyncSession_State_WAITING_FOR_ACCESS_TOKEN>`
      - The user is attempting to synchronize data but needs a valid access token to do so.
        
        
@@ -86,7 +86,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_mongodb_sync_SyncSession_State_INACTIVE_INACTIVE:
+.. _io_realm_mongodb_sync_SyncSession_State_INACTIVE:
 
 ``INACTIVE``
 ------------
@@ -96,7 +96,7 @@ public static final :ref:`SyncSession.State <io_realm_mongodb_sync_SyncSession_S
 This is the initial state. The session is closed. No data is being synchronized. The session
  will automatically transition to {@link #ACTIVE} when a Realm is opened.
 
-.. _io_realm_mongodb_sync_SyncSession_State_ACTIVE_ACTIVE:
+.. _io_realm_mongodb_sync_SyncSession_State_ACTIVE:
 
 ``ACTIVE``
 ----------
@@ -109,7 +109,7 @@ The Realm is open and data will be synchronized between the device and the serve
  The session will remain in this state until the Realm
  is closed. In which case it will become {@link #DYING}.
 
-.. _io_realm_mongodb_sync_SyncSession_State_DYING_DYING:
+.. _io_realm_mongodb_sync_SyncSession_State_DYING:
 
 ``DYING``
 ---------
@@ -119,7 +119,7 @@ public static final :ref:`SyncSession.State <io_realm_mongodb_sync_SyncSession_S
 The Realm was closed, but still contains data that needs to be synchronized to the server.
  The session will attempt to upload all local data before going {@link #INACTIVE}.
 
-.. _io_realm_mongodb_sync_SyncSession_State_WAITING_FOR_ACCESS_TOKEN_WAITING_FOR_ACCESS_TOKEN:
+.. _io_realm_mongodb_sync_SyncSession_State_WAITING_FOR_ACCESS_TOKEN:
 
 ``WAITING_FOR_ACCESS_TOKEN``
 ----------------------------

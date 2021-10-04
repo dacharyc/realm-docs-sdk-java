@@ -24,19 +24,19 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`LOGGED_IN <io_realm_mongodb_User_State_LOGGED_IN_LOGGED_IN>`
+   * - :ref:`LOGGED_IN <io_realm_mongodb_User_State_LOGGED_IN>`
      - 
        
        
        
    
-   * - :ref:`REMOVED <io_realm_mongodb_User_State_REMOVED_REMOVED>`
+   * - :ref:`REMOVED <io_realm_mongodb_User_State_REMOVED>`
      - 
        
        
        
    
-   * - :ref:`LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT_LOGGED_OUT>`
+   * - :ref:`LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`
      - 
        
        
@@ -72,7 +72,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_mongodb_User_State_LOGGED_IN_LOGGED_IN:
+.. _io_realm_mongodb_User_State_LOGGED_IN:
 
 ``LOGGED_IN``
 -------------
@@ -81,7 +81,7 @@ public static final :ref:`User.State <io_realm_mongodb_User_State>`
 
 
 
-.. _io_realm_mongodb_User_State_REMOVED_REMOVED:
+.. _io_realm_mongodb_User_State_REMOVED:
 
 ``REMOVED``
 -----------
@@ -90,7 +90,7 @@ public static final :ref:`User.State <io_realm_mongodb_User_State>`
 
 
 
-.. _io_realm_mongodb_User_State_LOGGED_OUT_LOGGED_OUT:
+.. _io_realm_mongodb_User_State_LOGGED_OUT:
 
 ``LOGGED_OUT``
 --------------

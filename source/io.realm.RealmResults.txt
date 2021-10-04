@@ -391,7 +391,7 @@ public **void (?)** setValue (`String <https://docs.oracle.com/javase/7/docs/api
 
 Updates the field given by ``fieldName``in all objects inside the query result.
 
-This method will automatically try to convert numbers and booleans that are given as ``String``to their appropriate type. For example ``"10"``will be converted to ``10``if the field type is **RealmFieldType#INTEGER (?)**.
+This method will automatically try to convert numbers and booleans that are given as ``String``to their appropriate type. For example ``"10"``will be converted to ``10``if the field type is :ref:`RealmFieldType#INTEGER <io_realm_RealmFieldType_INTEGER>`.
 
 
 

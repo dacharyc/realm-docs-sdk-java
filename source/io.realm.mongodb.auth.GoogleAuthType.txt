@@ -24,13 +24,13 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`AUTH_CODE <io_realm_mongodb_auth_GoogleAuthType_AUTH_CODE_AUTH_CODE>`
+   * - :ref:`AUTH_CODE <io_realm_mongodb_auth_GoogleAuthType_AUTH_CODE>`
      - 
        
        
        
    
-   * - :ref:`ID_TOKEN <io_realm_mongodb_auth_GoogleAuthType_ID_TOKEN_ID_TOKEN>`
+   * - :ref:`ID_TOKEN <io_realm_mongodb_auth_GoogleAuthType_ID_TOKEN>`
      - 
        
        
@@ -66,7 +66,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_mongodb_auth_GoogleAuthType_AUTH_CODE_AUTH_CODE:
+.. _io_realm_mongodb_auth_GoogleAuthType_AUTH_CODE:
 
 ``AUTH_CODE``
 -------------
@@ -75,7 +75,7 @@ public static final :ref:`GoogleAuthType <io_realm_mongodb_auth_GoogleAuthType>`
 
 
 
-.. _io_realm_mongodb_auth_GoogleAuthType_ID_TOKEN_ID_TOKEN:
+.. _io_realm_mongodb_auth_GoogleAuthType_ID_TOKEN:
 
 ``ID_TOKEN``
 ------------

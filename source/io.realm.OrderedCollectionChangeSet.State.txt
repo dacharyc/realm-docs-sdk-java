@@ -24,19 +24,19 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INITIAL <io_realm_OrderedCollectionChangeSet_State_INITIAL_INITIAL>`
+   * - :ref:`INITIAL <io_realm_OrderedCollectionChangeSet_State_INITIAL>`
      - This state is used first time the callback is invoked.
        
        
        
    
-   * - :ref:`UPDATE <io_realm_OrderedCollectionChangeSet_State_UPDATE_UPDATE>`
+   * - :ref:`UPDATE <io_realm_OrderedCollectionChangeSet_State_UPDATE>`
      - This state is used for every subsequent update after the first.
        
        
        
    
-   * - :ref:`ERROR <io_realm_OrderedCollectionChangeSet_State_ERROR_ERROR>`
+   * - :ref:`ERROR <io_realm_OrderedCollectionChangeSet_State_ERROR>`
      - This state is used if some error occurred on the background evaluating the query.
        
        
@@ -72,7 +72,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_OrderedCollectionChangeSet_State_INITIAL_INITIAL:
+.. _io_realm_OrderedCollectionChangeSet_State_INITIAL:
 
 ``INITIAL``
 -----------
@@ -82,7 +82,7 @@ public static final :ref:`OrderedCollectionChangeSet.State <io_realm_OrderedColl
 This state is used first time the callback is invoked. The query will have completed and
  data is ready for the UI.
 
-.. _io_realm_OrderedCollectionChangeSet_State_UPDATE_UPDATE:
+.. _io_realm_OrderedCollectionChangeSet_State_UPDATE:
 
 ``UPDATE``
 ----------
@@ -91,7 +91,7 @@ public static final :ref:`OrderedCollectionChangeSet.State <io_realm_OrderedColl
 
 This state is used for every subsequent update after the first.
 
-.. _io_realm_OrderedCollectionChangeSet_State_ERROR_ERROR:
+.. _io_realm_OrderedCollectionChangeSet_State_ERROR:
 
 ``ERROR``
 ---------

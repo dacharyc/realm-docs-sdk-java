@@ -24,13 +24,13 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`FATAL <io_realm_mongodb_ErrorCode_Category_FATAL_FATAL>`
+   * - :ref:`FATAL <io_realm_mongodb_ErrorCode_Category_FATAL>`
      - 
        
        
        
    
-   * - :ref:`RECOVERABLE <io_realm_mongodb_ErrorCode_Category_RECOVERABLE_RECOVERABLE>`
+   * - :ref:`RECOVERABLE <io_realm_mongodb_ErrorCode_Category_RECOVERABLE>`
      - 
        
        
@@ -66,7 +66,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_mongodb_ErrorCode_Category_FATAL_FATAL:
+.. _io_realm_mongodb_ErrorCode_Category_FATAL:
 
 ``FATAL``
 ---------
@@ -75,7 +75,7 @@ public static final :ref:`ErrorCode.Category <io_realm_mongodb_ErrorCode_Categor
 
 
 
-.. _io_realm_mongodb_ErrorCode_Category_RECOVERABLE_RECOVERABLE:
+.. _io_realm_mongodb_ErrorCode_Category_RECOVERABLE:
 
 ``RECOVERABLE``
 ---------------

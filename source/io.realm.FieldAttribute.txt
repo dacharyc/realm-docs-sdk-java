@@ -26,19 +26,19 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INDEXED <io_realm_FieldAttribute_INDEXED_INDEXED>`
+   * - :ref:`INDEXED <io_realm_FieldAttribute_INDEXED>`
      - Marks a field as indexed.
        
        
        
    
-   * - :ref:`PRIMARY_KEY <io_realm_FieldAttribute_PRIMARY_KEY_PRIMARY_KEY>`
+   * - :ref:`PRIMARY_KEY <io_realm_FieldAttribute_PRIMARY_KEY>`
      - Marks a field as a primary key.
        
        
        
    
-   * - :ref:`REQUIRED <io_realm_FieldAttribute_REQUIRED_REQUIRED>`
+   * - :ref:`REQUIRED <io_realm_FieldAttribute_REQUIRED>`
      - Marks a field as explicitly not allowing null values.
        
        
@@ -74,7 +74,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_FieldAttribute_INDEXED_INDEXED:
+.. _io_realm_FieldAttribute_INDEXED:
 
 ``INDEXED``
 -----------
@@ -83,7 +83,7 @@ public static final :ref:`FieldAttribute <io_realm_FieldAttribute>`
 
 Marks a field as indexed.
 
-.. _io_realm_FieldAttribute_PRIMARY_KEY_PRIMARY_KEY:
+.. _io_realm_FieldAttribute_PRIMARY_KEY:
 
 ``PRIMARY_KEY``
 ---------------
@@ -92,7 +92,7 @@ public static final :ref:`FieldAttribute <io_realm_FieldAttribute>`
 
 Marks a field as a primary key. This also implicitly mark it as {@link #INDEXED}.
 
-.. _io_realm_FieldAttribute_REQUIRED_REQUIRED:
+.. _io_realm_FieldAttribute_REQUIRED:
 
 ``REQUIRED``
 ------------

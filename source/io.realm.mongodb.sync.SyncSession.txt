@@ -451,7 +451,7 @@ Attempts to start the session and enable synchronization with the Realm Object S
 
 If the session was already started, calling this method will do nothing.
 
-A session is considered started if **#getState() (?)**returns **State#ACTIVE (?)**. If the session is **State#DYING (?)**, the session will be moved back to **State#ACTIVE (?)**.
+A session is considered started if **#getState() (?)**returns :ref:`State#ACTIVE <io_realm_mongodb_sync_SyncSession_State_ACTIVE>`. If the session is :ref:`State#DYING <io_realm_mongodb_sync_SyncSession_State_DYING>`, the session will be moved back to :ref:`State#ACTIVE <io_realm_mongodb_sync_SyncSession_State_ACTIVE>`.
 
 
 

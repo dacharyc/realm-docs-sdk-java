@@ -24,31 +24,31 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INSERT <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_INSERT_INSERT>`
+   * - :ref:`INSERT <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_INSERT>`
      - 
        
        
        
    
-   * - :ref:`DELETE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_DELETE_DELETE>`
+   * - :ref:`DELETE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_DELETE>`
      - 
        
        
        
    
-   * - :ref:`REPLACE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_REPLACE_REPLACE>`
+   * - :ref:`REPLACE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_REPLACE>`
      - 
        
        
        
    
-   * - :ref:`UPDATE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UPDATE_UPDATE>`
+   * - :ref:`UPDATE <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UPDATE>`
      - 
        
        
        
    
-   * - :ref:`UNKNOWN <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UNKNOWN_UNKNOWN>`
+   * - :ref:`UNKNOWN <io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UNKNOWN>`
      - 
        
        
@@ -84,7 +84,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_INSERT_INSERT:
+.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_INSERT:
 
 ``INSERT``
 ----------
@@ -93,7 +93,7 @@ public static final :ref:`BaseChangeEvent.OperationType <io_realm_mongodb_mongo_
 
 
 
-.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_DELETE_DELETE:
+.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_DELETE:
 
 ``DELETE``
 ----------
@@ -102,7 +102,7 @@ public static final :ref:`BaseChangeEvent.OperationType <io_realm_mongodb_mongo_
 
 
 
-.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_REPLACE_REPLACE:
+.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_REPLACE:
 
 ``REPLACE``
 -----------
@@ -111,7 +111,7 @@ public static final :ref:`BaseChangeEvent.OperationType <io_realm_mongodb_mongo_
 
 
 
-.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UPDATE_UPDATE:
+.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UPDATE:
 
 ``UPDATE``
 ----------
@@ -120,7 +120,7 @@ public static final :ref:`BaseChangeEvent.OperationType <io_realm_mongodb_mongo_
 
 
 
-.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UNKNOWN_UNKNOWN:
+.. _io_realm_mongodb_mongo_events_BaseChangeEvent_OperationType_UNKNOWN:
 
 ``UNKNOWN``
 -----------

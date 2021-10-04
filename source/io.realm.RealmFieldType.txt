@@ -28,301 +28,301 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INTEGER <io_realm_RealmFieldType_INTEGER_INTEGER>`
+   * - :ref:`INTEGER <io_realm_RealmFieldType_INTEGER>`
      - 
        
        
        
    
-   * - :ref:`BOOLEAN <io_realm_RealmFieldType_BOOLEAN_BOOLEAN>`
+   * - :ref:`BOOLEAN <io_realm_RealmFieldType_BOOLEAN>`
      - 
        
        
        
    
-   * - :ref:`STRING <io_realm_RealmFieldType_STRING_STRING>`
+   * - :ref:`STRING <io_realm_RealmFieldType_STRING>`
      - 
        
        
        
    
-   * - :ref:`BINARY <io_realm_RealmFieldType_BINARY_BINARY>`
+   * - :ref:`BINARY <io_realm_RealmFieldType_BINARY>`
      - 
        
        
        
    
-   * - :ref:`DATE <io_realm_RealmFieldType_DATE_DATE>`
+   * - :ref:`DATE <io_realm_RealmFieldType_DATE>`
      - 
        
        
        
    
-   * - :ref:`FLOAT <io_realm_RealmFieldType_FLOAT_FLOAT>`
+   * - :ref:`FLOAT <io_realm_RealmFieldType_FLOAT>`
      - 
        
        
        
    
-   * - :ref:`DOUBLE <io_realm_RealmFieldType_DOUBLE_DOUBLE>`
+   * - :ref:`DOUBLE <io_realm_RealmFieldType_DOUBLE>`
      - 
        
        
        
    
-   * - :ref:`OBJECT <io_realm_RealmFieldType_OBJECT_OBJECT>`
+   * - :ref:`OBJECT <io_realm_RealmFieldType_OBJECT>`
      - 
        
        
        
    
-   * - :ref:`DECIMAL128 <io_realm_RealmFieldType_DECIMAL128_DECIMAL128>`
+   * - :ref:`DECIMAL128 <io_realm_RealmFieldType_DECIMAL128>`
      - 
        
        
        
    
-   * - :ref:`OBJECT_ID <io_realm_RealmFieldType_OBJECT_ID_OBJECT_ID>`
+   * - :ref:`OBJECT_ID <io_realm_RealmFieldType_OBJECT_ID>`
      - 
        
        
        
    
-   * - :ref:`UUID <io_realm_RealmFieldType_UUID_UUID>`
+   * - :ref:`UUID <io_realm_RealmFieldType_UUID>`
      - 
        
        
        
    
-   * - :ref:`MIXED <io_realm_RealmFieldType_MIXED_MIXED>`
+   * - :ref:`MIXED <io_realm_RealmFieldType_MIXED>`
      - 
        
        
        
    
-   * - :ref:`TYPED_LINK <io_realm_RealmFieldType_TYPED_LINK_TYPED_LINK>`
+   * - :ref:`TYPED_LINK <io_realm_RealmFieldType_TYPED_LINK>`
      - 
        
        
        
    
-   * - :ref:`LIST <io_realm_RealmFieldType_LIST_LIST>`
+   * - :ref:`LIST <io_realm_RealmFieldType_LIST>`
      - 
        
        
        
    
-   * - :ref:`LINKING_OBJECTS <io_realm_RealmFieldType_LINKING_OBJECTS_LINKING_OBJECTS>`
+   * - :ref:`LINKING_OBJECTS <io_realm_RealmFieldType_LINKING_OBJECTS>`
      - 
        
        
        
    
-   * - :ref:`INTEGER_LIST <io_realm_RealmFieldType_INTEGER_LIST_INTEGER_LIST>`
+   * - :ref:`INTEGER_LIST <io_realm_RealmFieldType_INTEGER_LIST>`
      - 
        
        
        
    
-   * - :ref:`BOOLEAN_LIST <io_realm_RealmFieldType_BOOLEAN_LIST_BOOLEAN_LIST>`
+   * - :ref:`BOOLEAN_LIST <io_realm_RealmFieldType_BOOLEAN_LIST>`
      - 
        
        
        
    
-   * - :ref:`STRING_LIST <io_realm_RealmFieldType_STRING_LIST_STRING_LIST>`
+   * - :ref:`STRING_LIST <io_realm_RealmFieldType_STRING_LIST>`
      - 
        
        
        
    
-   * - :ref:`BINARY_LIST <io_realm_RealmFieldType_BINARY_LIST_BINARY_LIST>`
+   * - :ref:`BINARY_LIST <io_realm_RealmFieldType_BINARY_LIST>`
      - 
        
        
        
    
-   * - :ref:`DATE_LIST <io_realm_RealmFieldType_DATE_LIST_DATE_LIST>`
+   * - :ref:`DATE_LIST <io_realm_RealmFieldType_DATE_LIST>`
      - 
        
        
        
    
-   * - :ref:`FLOAT_LIST <io_realm_RealmFieldType_FLOAT_LIST_FLOAT_LIST>`
+   * - :ref:`FLOAT_LIST <io_realm_RealmFieldType_FLOAT_LIST>`
      - 
        
        
        
    
-   * - :ref:`DOUBLE_LIST <io_realm_RealmFieldType_DOUBLE_LIST_DOUBLE_LIST>`
+   * - :ref:`DOUBLE_LIST <io_realm_RealmFieldType_DOUBLE_LIST>`
      - 
        
        
        
    
-   * - :ref:`DECIMAL128_LIST <io_realm_RealmFieldType_DECIMAL128_LIST_DECIMAL128_LIST>`
+   * - :ref:`DECIMAL128_LIST <io_realm_RealmFieldType_DECIMAL128_LIST>`
      - 
        
        
        
    
-   * - :ref:`OBJECT_ID_LIST <io_realm_RealmFieldType_OBJECT_ID_LIST_OBJECT_ID_LIST>`
+   * - :ref:`OBJECT_ID_LIST <io_realm_RealmFieldType_OBJECT_ID_LIST>`
      - 
        
        
        
    
-   * - :ref:`UUID_LIST <io_realm_RealmFieldType_UUID_LIST_UUID_LIST>`
+   * - :ref:`UUID_LIST <io_realm_RealmFieldType_UUID_LIST>`
      - 
        
        
        
    
-   * - :ref:`MIXED_LIST <io_realm_RealmFieldType_MIXED_LIST_MIXED_LIST>`
+   * - :ref:`MIXED_LIST <io_realm_RealmFieldType_MIXED_LIST>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_INTEGER_MAP <io_realm_RealmFieldType_STRING_TO_INTEGER_MAP_STRING_TO_INTEGER_MAP>`
+   * - :ref:`STRING_TO_INTEGER_MAP <io_realm_RealmFieldType_STRING_TO_INTEGER_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_BOOLEAN_MAP <io_realm_RealmFieldType_STRING_TO_BOOLEAN_MAP_STRING_TO_BOOLEAN_MAP>`
+   * - :ref:`STRING_TO_BOOLEAN_MAP <io_realm_RealmFieldType_STRING_TO_BOOLEAN_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_STRING_MAP <io_realm_RealmFieldType_STRING_TO_STRING_MAP_STRING_TO_STRING_MAP>`
+   * - :ref:`STRING_TO_STRING_MAP <io_realm_RealmFieldType_STRING_TO_STRING_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_BINARY_MAP <io_realm_RealmFieldType_STRING_TO_BINARY_MAP_STRING_TO_BINARY_MAP>`
+   * - :ref:`STRING_TO_BINARY_MAP <io_realm_RealmFieldType_STRING_TO_BINARY_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_DATE_MAP <io_realm_RealmFieldType_STRING_TO_DATE_MAP_STRING_TO_DATE_MAP>`
+   * - :ref:`STRING_TO_DATE_MAP <io_realm_RealmFieldType_STRING_TO_DATE_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_FLOAT_MAP <io_realm_RealmFieldType_STRING_TO_FLOAT_MAP_STRING_TO_FLOAT_MAP>`
+   * - :ref:`STRING_TO_FLOAT_MAP <io_realm_RealmFieldType_STRING_TO_FLOAT_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_DOUBLE_MAP <io_realm_RealmFieldType_STRING_TO_DOUBLE_MAP_STRING_TO_DOUBLE_MAP>`
+   * - :ref:`STRING_TO_DOUBLE_MAP <io_realm_RealmFieldType_STRING_TO_DOUBLE_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_DECIMAL128_MAP <io_realm_RealmFieldType_STRING_TO_DECIMAL128_MAP_STRING_TO_DECIMAL128_MAP>`
+   * - :ref:`STRING_TO_DECIMAL128_MAP <io_realm_RealmFieldType_STRING_TO_DECIMAL128_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_OBJECT_ID_MAP <io_realm_RealmFieldType_STRING_TO_OBJECT_ID_MAP_STRING_TO_OBJECT_ID_MAP>`
+   * - :ref:`STRING_TO_OBJECT_ID_MAP <io_realm_RealmFieldType_STRING_TO_OBJECT_ID_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_UUID_MAP <io_realm_RealmFieldType_STRING_TO_UUID_MAP_STRING_TO_UUID_MAP>`
+   * - :ref:`STRING_TO_UUID_MAP <io_realm_RealmFieldType_STRING_TO_UUID_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_MIXED_MAP <io_realm_RealmFieldType_STRING_TO_MIXED_MAP_STRING_TO_MIXED_MAP>`
+   * - :ref:`STRING_TO_MIXED_MAP <io_realm_RealmFieldType_STRING_TO_MIXED_MAP>`
      - 
        
        
        
    
-   * - :ref:`STRING_TO_LINK_MAP <io_realm_RealmFieldType_STRING_TO_LINK_MAP_STRING_TO_LINK_MAP>`
+   * - :ref:`STRING_TO_LINK_MAP <io_realm_RealmFieldType_STRING_TO_LINK_MAP>`
      - 
        
        
        
    
-   * - :ref:`INTEGER_SET <io_realm_RealmFieldType_INTEGER_SET_INTEGER_SET>`
+   * - :ref:`INTEGER_SET <io_realm_RealmFieldType_INTEGER_SET>`
      - 
        
        
        
    
-   * - :ref:`BOOLEAN_SET <io_realm_RealmFieldType_BOOLEAN_SET_BOOLEAN_SET>`
+   * - :ref:`BOOLEAN_SET <io_realm_RealmFieldType_BOOLEAN_SET>`
      - 
        
        
        
    
-   * - :ref:`STRING_SET <io_realm_RealmFieldType_STRING_SET_STRING_SET>`
+   * - :ref:`STRING_SET <io_realm_RealmFieldType_STRING_SET>`
      - 
        
        
        
    
-   * - :ref:`BINARY_SET <io_realm_RealmFieldType_BINARY_SET_BINARY_SET>`
+   * - :ref:`BINARY_SET <io_realm_RealmFieldType_BINARY_SET>`
      - 
        
        
        
    
-   * - :ref:`DATE_SET <io_realm_RealmFieldType_DATE_SET_DATE_SET>`
+   * - :ref:`DATE_SET <io_realm_RealmFieldType_DATE_SET>`
      - 
        
        
        
    
-   * - :ref:`FLOAT_SET <io_realm_RealmFieldType_FLOAT_SET_FLOAT_SET>`
+   * - :ref:`FLOAT_SET <io_realm_RealmFieldType_FLOAT_SET>`
      - 
        
        
        
    
-   * - :ref:`DOUBLE_SET <io_realm_RealmFieldType_DOUBLE_SET_DOUBLE_SET>`
+   * - :ref:`DOUBLE_SET <io_realm_RealmFieldType_DOUBLE_SET>`
      - 
        
        
        
    
-   * - :ref:`DECIMAL128_SET <io_realm_RealmFieldType_DECIMAL128_SET_DECIMAL128_SET>`
+   * - :ref:`DECIMAL128_SET <io_realm_RealmFieldType_DECIMAL128_SET>`
      - 
        
        
        
    
-   * - :ref:`OBJECT_ID_SET <io_realm_RealmFieldType_OBJECT_ID_SET_OBJECT_ID_SET>`
+   * - :ref:`OBJECT_ID_SET <io_realm_RealmFieldType_OBJECT_ID_SET>`
      - 
        
        
        
    
-   * - :ref:`UUID_SET <io_realm_RealmFieldType_UUID_SET_UUID_SET>`
+   * - :ref:`UUID_SET <io_realm_RealmFieldType_UUID_SET>`
      - 
        
        
        
    
-   * - :ref:`LINK_SET <io_realm_RealmFieldType_LINK_SET_LINK_SET>`
+   * - :ref:`LINK_SET <io_realm_RealmFieldType_LINK_SET>`
      - 
        
        
        
    
-   * - :ref:`MIXED_SET <io_realm_RealmFieldType_MIXED_SET_MIXED_SET>`
+   * - :ref:`MIXED_SET <io_realm_RealmFieldType_MIXED_SET>`
      - 
        
        
@@ -382,7 +382,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_RealmFieldType_INTEGER_INTEGER:
+.. _io_realm_RealmFieldType_INTEGER:
 
 ``INTEGER``
 -----------
@@ -391,7 +391,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BOOLEAN_BOOLEAN:
+.. _io_realm_RealmFieldType_BOOLEAN:
 
 ``BOOLEAN``
 -----------
@@ -400,7 +400,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_STRING:
+.. _io_realm_RealmFieldType_STRING:
 
 ``STRING``
 ----------
@@ -409,7 +409,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BINARY_BINARY:
+.. _io_realm_RealmFieldType_BINARY:
 
 ``BINARY``
 ----------
@@ -418,7 +418,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DATE_DATE:
+.. _io_realm_RealmFieldType_DATE:
 
 ``DATE``
 --------
@@ -427,7 +427,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_FLOAT_FLOAT:
+.. _io_realm_RealmFieldType_FLOAT:
 
 ``FLOAT``
 ---------
@@ -436,7 +436,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DOUBLE_DOUBLE:
+.. _io_realm_RealmFieldType_DOUBLE:
 
 ``DOUBLE``
 ----------
@@ -445,7 +445,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_OBJECT_OBJECT:
+.. _io_realm_RealmFieldType_OBJECT:
 
 ``OBJECT``
 ----------
@@ -454,7 +454,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DECIMAL128_DECIMAL128:
+.. _io_realm_RealmFieldType_DECIMAL128:
 
 ``DECIMAL128``
 --------------
@@ -463,7 +463,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_OBJECT_ID_OBJECT_ID:
+.. _io_realm_RealmFieldType_OBJECT_ID:
 
 ``OBJECT_ID``
 -------------
@@ -472,7 +472,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_UUID_UUID:
+.. _io_realm_RealmFieldType_UUID:
 
 ``UUID``
 --------
@@ -481,7 +481,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_MIXED_MIXED:
+.. _io_realm_RealmFieldType_MIXED:
 
 ``MIXED``
 ---------
@@ -490,7 +490,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_TYPED_LINK_TYPED_LINK:
+.. _io_realm_RealmFieldType_TYPED_LINK:
 
 ``TYPED_LINK``
 --------------
@@ -499,7 +499,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_LIST_LIST:
+.. _io_realm_RealmFieldType_LIST:
 
 ``LIST``
 --------
@@ -508,7 +508,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_LINKING_OBJECTS_LINKING_OBJECTS:
+.. _io_realm_RealmFieldType_LINKING_OBJECTS:
 
 ``LINKING_OBJECTS``
 -------------------
@@ -517,7 +517,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_INTEGER_LIST_INTEGER_LIST:
+.. _io_realm_RealmFieldType_INTEGER_LIST:
 
 ``INTEGER_LIST``
 ----------------
@@ -526,7 +526,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BOOLEAN_LIST_BOOLEAN_LIST:
+.. _io_realm_RealmFieldType_BOOLEAN_LIST:
 
 ``BOOLEAN_LIST``
 ----------------
@@ -535,7 +535,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_LIST_STRING_LIST:
+.. _io_realm_RealmFieldType_STRING_LIST:
 
 ``STRING_LIST``
 ---------------
@@ -544,7 +544,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BINARY_LIST_BINARY_LIST:
+.. _io_realm_RealmFieldType_BINARY_LIST:
 
 ``BINARY_LIST``
 ---------------
@@ -553,7 +553,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DATE_LIST_DATE_LIST:
+.. _io_realm_RealmFieldType_DATE_LIST:
 
 ``DATE_LIST``
 -------------
@@ -562,7 +562,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_FLOAT_LIST_FLOAT_LIST:
+.. _io_realm_RealmFieldType_FLOAT_LIST:
 
 ``FLOAT_LIST``
 --------------
@@ -571,7 +571,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DOUBLE_LIST_DOUBLE_LIST:
+.. _io_realm_RealmFieldType_DOUBLE_LIST:
 
 ``DOUBLE_LIST``
 ---------------
@@ -580,7 +580,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DECIMAL128_LIST_DECIMAL128_LIST:
+.. _io_realm_RealmFieldType_DECIMAL128_LIST:
 
 ``DECIMAL128_LIST``
 -------------------
@@ -589,7 +589,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_OBJECT_ID_LIST_OBJECT_ID_LIST:
+.. _io_realm_RealmFieldType_OBJECT_ID_LIST:
 
 ``OBJECT_ID_LIST``
 ------------------
@@ -598,7 +598,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_UUID_LIST_UUID_LIST:
+.. _io_realm_RealmFieldType_UUID_LIST:
 
 ``UUID_LIST``
 -------------
@@ -607,7 +607,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_MIXED_LIST_MIXED_LIST:
+.. _io_realm_RealmFieldType_MIXED_LIST:
 
 ``MIXED_LIST``
 --------------
@@ -616,7 +616,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_INTEGER_MAP_STRING_TO_INTEGER_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_INTEGER_MAP:
 
 ``STRING_TO_INTEGER_MAP``
 -------------------------
@@ -625,7 +625,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_BOOLEAN_MAP_STRING_TO_BOOLEAN_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_BOOLEAN_MAP:
 
 ``STRING_TO_BOOLEAN_MAP``
 -------------------------
@@ -634,7 +634,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_STRING_MAP_STRING_TO_STRING_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_STRING_MAP:
 
 ``STRING_TO_STRING_MAP``
 ------------------------
@@ -643,7 +643,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_BINARY_MAP_STRING_TO_BINARY_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_BINARY_MAP:
 
 ``STRING_TO_BINARY_MAP``
 ------------------------
@@ -652,7 +652,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_DATE_MAP_STRING_TO_DATE_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_DATE_MAP:
 
 ``STRING_TO_DATE_MAP``
 ----------------------
@@ -661,7 +661,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_FLOAT_MAP_STRING_TO_FLOAT_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_FLOAT_MAP:
 
 ``STRING_TO_FLOAT_MAP``
 -----------------------
@@ -670,7 +670,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_DOUBLE_MAP_STRING_TO_DOUBLE_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_DOUBLE_MAP:
 
 ``STRING_TO_DOUBLE_MAP``
 ------------------------
@@ -679,7 +679,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_DECIMAL128_MAP_STRING_TO_DECIMAL128_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_DECIMAL128_MAP:
 
 ``STRING_TO_DECIMAL128_MAP``
 ----------------------------
@@ -688,7 +688,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_OBJECT_ID_MAP_STRING_TO_OBJECT_ID_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_OBJECT_ID_MAP:
 
 ``STRING_TO_OBJECT_ID_MAP``
 ---------------------------
@@ -697,7 +697,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_UUID_MAP_STRING_TO_UUID_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_UUID_MAP:
 
 ``STRING_TO_UUID_MAP``
 ----------------------
@@ -706,7 +706,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_MIXED_MAP_STRING_TO_MIXED_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_MIXED_MAP:
 
 ``STRING_TO_MIXED_MAP``
 -----------------------
@@ -715,7 +715,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_TO_LINK_MAP_STRING_TO_LINK_MAP:
+.. _io_realm_RealmFieldType_STRING_TO_LINK_MAP:
 
 ``STRING_TO_LINK_MAP``
 ----------------------
@@ -724,7 +724,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_INTEGER_SET_INTEGER_SET:
+.. _io_realm_RealmFieldType_INTEGER_SET:
 
 ``INTEGER_SET``
 ---------------
@@ -733,7 +733,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BOOLEAN_SET_BOOLEAN_SET:
+.. _io_realm_RealmFieldType_BOOLEAN_SET:
 
 ``BOOLEAN_SET``
 ---------------
@@ -742,7 +742,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_STRING_SET_STRING_SET:
+.. _io_realm_RealmFieldType_STRING_SET:
 
 ``STRING_SET``
 --------------
@@ -751,7 +751,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_BINARY_SET_BINARY_SET:
+.. _io_realm_RealmFieldType_BINARY_SET:
 
 ``BINARY_SET``
 --------------
@@ -760,7 +760,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DATE_SET_DATE_SET:
+.. _io_realm_RealmFieldType_DATE_SET:
 
 ``DATE_SET``
 ------------
@@ -769,7 +769,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_FLOAT_SET_FLOAT_SET:
+.. _io_realm_RealmFieldType_FLOAT_SET:
 
 ``FLOAT_SET``
 -------------
@@ -778,7 +778,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DOUBLE_SET_DOUBLE_SET:
+.. _io_realm_RealmFieldType_DOUBLE_SET:
 
 ``DOUBLE_SET``
 --------------
@@ -787,7 +787,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_DECIMAL128_SET_DECIMAL128_SET:
+.. _io_realm_RealmFieldType_DECIMAL128_SET:
 
 ``DECIMAL128_SET``
 ------------------
@@ -796,7 +796,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_OBJECT_ID_SET_OBJECT_ID_SET:
+.. _io_realm_RealmFieldType_OBJECT_ID_SET:
 
 ``OBJECT_ID_SET``
 -----------------
@@ -805,7 +805,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_UUID_SET_UUID_SET:
+.. _io_realm_RealmFieldType_UUID_SET:
 
 ``UUID_SET``
 ------------
@@ -814,7 +814,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_LINK_SET_LINK_SET:
+.. _io_realm_RealmFieldType_LINK_SET:
 
 ``LINK_SET``
 ------------
@@ -823,7 +823,7 @@ public static final :ref:`RealmFieldType <io_realm_RealmFieldType>`
 
 
 
-.. _io_realm_RealmFieldType_MIXED_SET_MIXED_SET:
+.. _io_realm_RealmFieldType_MIXED_SET:
 
 ``MIXED_SET``
 -------------

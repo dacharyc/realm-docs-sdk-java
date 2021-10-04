@@ -459,7 +459,7 @@ Log the user out of the Realm App. This will unregister them on the device, stop
 
 
 
-Logging out anonymous users will remove them immediately instead of marking them as **User.State#LOGGED_OUT (?)**. All other users will be marked as **User.State#LOGGED_OUT (?)**and will still be returned by **App#allUsers() (?)**. They can be removed completely by calling **App#removeUser(User (?)**()}.
+Logging out anonymous users will remove them immediately instead of marking them as :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`. All other users will be marked as :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`and will still be returned by **App#allUsers() (?)**. They can be removed completely by calling **App#removeUser(User (?)**()}.
 
 
 
@@ -478,7 +478,7 @@ Log the user out of the Realm App asynchronously. This will unregister them on t
 
 
 
-Logging out anonymous users will remove them immediately instead of marking them as **User.State#LOGGED_OUT (?)**. All other users will be marked as **User.State#LOGGED_OUT (?)**and will still be returned by **App#allUsers() (?)**. They can be removed completely by calling **App#removeUser(User) (?)**()}.
+Logging out anonymous users will remove them immediately instead of marking them as :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`. All other users will be marked as :ref:`User.State#LOGGED_OUT <io_realm_mongodb_User_State_LOGGED_OUT>`and will still be returned by **App#allUsers() (?)**. They can be removed completely by calling **App#removeUser(User) (?)**()}.
 
 
 

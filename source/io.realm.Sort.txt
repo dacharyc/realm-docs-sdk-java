@@ -24,13 +24,13 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`ASCENDING <io_realm_Sort_ASCENDING_ASCENDING>`
+   * - :ref:`ASCENDING <io_realm_Sort_ASCENDING>`
      - 
        
        
        
    
-   * - :ref:`DESCENDING <io_realm_Sort_DESCENDING_DESCENDING>`
+   * - :ref:`DESCENDING <io_realm_Sort_DESCENDING>`
      - 
        
        
@@ -74,7 +74,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_Sort_ASCENDING_ASCENDING:
+.. _io_realm_Sort_ASCENDING:
 
 ``ASCENDING``
 -------------
@@ -83,7 +83,7 @@ public static final :ref:`Sort <io_realm_Sort>`
 
 
 
-.. _io_realm_Sort_DESCENDING_DESCENDING:
+.. _io_realm_Sort_DESCENDING:
 
 ``DESCENDING``
 --------------

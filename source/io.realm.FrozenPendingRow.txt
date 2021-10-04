@@ -26,7 +26,7 @@ Enum Constant Summary
    * - Enum Constant
      - Description
    
-   * - :ref:`INSTANCE <io_realm_FrozenPendingRow_INSTANCE_INSTANCE>`
+   * - :ref:`INSTANCE <io_realm_FrozenPendingRow_INSTANCE>`
      - 
        
        
@@ -446,7 +446,7 @@ Method Summary
 Enum Constant Detail
 ====================
 
-.. _io_realm_FrozenPendingRow_INSTANCE_INSTANCE:
+.. _io_realm_FrozenPendingRow_INSTANCE:
 
 ``INSTANCE``
 ------------

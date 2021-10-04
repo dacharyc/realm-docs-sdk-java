@@ -109,7 +109,7 @@ public :ref:`ErrorCode <io_realm_mongodb_ErrorCode>` getErrorCode ()
 
 Returns the **ErrorCode (?)**identifying the type of error.
 
-If **ErrorCode#UNKNOWN (?)**is returned, it means that the error could not be mapped to any known errors. In that case **#getErrorType() (?)**and **#getErrorIntValue() (?)**will return the underlying error information which can better identify the type of error.
+If :ref:`ErrorCode#UNKNOWN <io_realm_mongodb_ErrorCode_UNKNOWN>`is returned, it means that the error could not be mapped to any known errors. In that case **#getErrorType() (?)**and **#getErrorIntValue() (?)**will return the underlying error information which can better identify the type of error.
 
 
 
@@ -158,7 +158,7 @@ Returns the underlying exception causing this error, if any.
 
 public :ref:`ErrorCode.Category <io_realm_mongodb_ErrorCode_Category>` getCategory ()
 
-Returns the **ErrorCode.Category (?)**category for this error. Errors that are **ErrorCode.Category#RECOVERABLE (?)**mean that it is still possible for a given **SyncSession (?)**to resume synchronization. **ErrorCode.Category#FATAL (?)**errors means that session has stopped and cannot be recovered.
+Returns the **ErrorCode.Category (?)**category for this error. Errors that are :ref:`ErrorCode.Category#RECOVERABLE <io_realm_mongodb_ErrorCode_Category_RECOVERABLE>`mean that it is still possible for a given **SyncSession (?)**to resume synchronization. :ref:`ErrorCode.Category#FATAL <io_realm_mongodb_ErrorCode_Category_FATAL>`errors means that session has stopped and cannot be recovered.
 
 
 .. _io_realm_mongodb_AppException_toString____:
